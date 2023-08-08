@@ -26,14 +26,14 @@ Here are some ideas to get you started:
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adarsh-tiwari-503903257/)
-[![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Adarsht23)
+[![image](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/Adarsht/)
 [![image](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://kaggle.com/adarsht23)
-[![image](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/adarsht.13)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:produtor.adarsh.2004tiwari@gmail.com)
+[![image](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/adarsht.13)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarsh.2004tiwari@gmail.com)
   
 </div>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Tech Stacks:</h3>
 
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
@@ -54,16 +54,16 @@ Here are some ideas to get you started:
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://github.com/get-icon/geticon/raw/master/icons/c.svg" alt="C" width="40" height="40"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://cplusplus.com/doc/tutorial/" target="_blank"> 
     <img src="https://github.com/get-icon/geticon/raw/master/icons/c-plusplus.svg" alt="C++" width="40" height="40"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://pandas.pydata.org/" target="_blank"> 
     <img src="https://github.com/get-icon/geticon/raw/master/icons/pandas-icon.svg" alt="pandas" width="40" height="40"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://numpy.org/" target="_blank"> 
     <img src="https://github.com/get-icon/geticon/raw/master/icons/numpy-icon.svg" alt="numpy" width="40" height="40"/> 
   </a>
-  <a href="https://git-scm.com/" target="_blank"> 
+  <a href="https://jupyter.org/" target="_blank"> 
     <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="jupyter" width="40" height="40"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank"> 
