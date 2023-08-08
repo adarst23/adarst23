@@ -22,6 +22,11 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **adarsh.2004tiwari@gmail.com**
 
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=adarst23" alt="Profile Views">
+</div>
+
+
 <h3 align="center">Connect with me:</h3>
 <div align="center">
 
@@ -32,6 +37,8 @@ Here are some ideas to get you started:
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adarsh.2004tiwari@gmail.com)
   
 </div>
+
+
 
 <h3 align="center">Tech Stacks:</h3>
 
